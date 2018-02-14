@@ -1,3 +1,5 @@
 Foobar
 ---
 Fnord
+---
+Baz
